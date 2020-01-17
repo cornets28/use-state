@@ -2,7 +2,7 @@
 
 ## Description
 
-- This application is made for beginners or people who has some experience in React, but not yet know React Hooks. This small project is related to an article ``. Our intention is to simply give a broad idea on how useState can be usefull in react components.
+- This application is made for beginners or people who has some experience in React, but not yet know React Hooks. This small project is related to this [article](https://medium.com/@corsam28/make-your-life-easier-with-react-hooks-usestate-hook-e8de858f6b1a). Our intention is to simply give a broad idea on how useState can be usefull in react components.
 
 ## Author
 
